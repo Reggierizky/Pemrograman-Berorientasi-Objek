@@ -1,5 +1,5 @@
 Screenshot Program
 
 1.Tampilkan Semua Data
-!(Menu1.png)
+![](Menu1.png)
 
