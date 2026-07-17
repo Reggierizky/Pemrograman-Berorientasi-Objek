@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Reggie/Documents/Khusus%20Tugas/KasKelasCLI/src/database/DatabaseConnection.java</file>
+            <file>file:/C:/Users/Reggie/Documents/Khusus%20Tugas/KasKelasCLI/src/main/Main.java</file>
+            <file>file:/C:/Users/Reggie/Documents/Khusus%20Tugas/KasKelasCLI/src/model/Anggota.java</file>
+            <file>file:/C:/Users/Reggie/Documents/Khusus%20Tugas/KasKelasCLI/src/service/Laporan.java</file>
+            <file>file:/C:/Users/Reggie/Documents/Khusus%20Tugas/KasKelasCLI/src/model/Transaksi.java</file>
+            <file>file:/C:/Users/Reggie/Documents/Khusus%20Tugas/KasKelasCLI/src/model/KasMasuk.java</file>
+            <file>file:/C:/Users/Reggie/Documents/Khusus%20Tugas/KasKelasCLI/src/model/KasKeluar.java</file>
+            <file>file:/C:/Users/Reggie/Documents/Khusus%20Tugas/KasKelasCLI/src/dao/AnggotaDAO.java</file>
+            <file>file:/C:/Users/Reggie/Documents/Khusus%20Tugas/KasKelasCLI/src/dao/KasMasukDAO.java</file>
+            <file>file:/C:/Users/Reggie/Documents/Khusus%20Tugas/KasKelasCLI/src/dao/KasKeluarDAO.java</file>
+        </group>
+    </open-files>
+</project-private>
